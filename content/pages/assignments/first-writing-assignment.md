@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 389bc200-2b0d-49cb-03b7-85d6706f8d77
 title: First Writing Assignment
 uid: 133a6915-0008-e564-0179-7e4d2516b03f

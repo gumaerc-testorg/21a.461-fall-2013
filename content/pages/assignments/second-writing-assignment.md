@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 389bc200-2b0d-49cb-03b7-85d6706f8d77
 title: Second Writing Assignment
 uid: 25f10b48-02da-aa8a-9ca1-211b1b746171
