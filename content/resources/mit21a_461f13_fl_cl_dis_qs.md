@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d34bfeff-7138-9d50-93cb-1f7899d34696
 resourcetype: Document
 title: 21A.461 What is Capitalism? Discussion Questions for the Final Class
 uid: 444b29e2-537f-aad3-788d-69822b6ceb61

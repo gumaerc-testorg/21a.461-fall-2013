@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 389bc200-2b0d-49cb-03b7-85d6706f8d77
 resourcetype: Document
 title: 21A.461 What is Captitalism? Writing Resource "Revising the Draft"
 uid: 9e49b357-e094-5567-9b72-864ac4b70bf8

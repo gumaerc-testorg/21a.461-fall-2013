@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d34bfeff-7138-9d50-93cb-1f7899d34696
 resourcetype: Document
 title: 21A.461 What is Capitalism? Study Questions for Hayek and Polanyi
 uid: f2459838-983d-be8d-44c2-b54fe7e06140

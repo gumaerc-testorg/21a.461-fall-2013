@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 389bc200-2b0d-49cb-03b7-85d6706f8d77
 resourcetype: Document
 title: 21A.461 What is Captitalism? Writing Resource "How to Improve Your Writing"
 uid: 7ab4ad7d-0ff1-b4b9-b399-0a2b55416f40

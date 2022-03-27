@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d34bfeff-7138-9d50-93cb-1f7899d34696
 resourcetype: Document
 title: 21A.461 What is Capitalism? Class Notes About Inequality
 uid: 42c318bf-dabe-bf4b-cff3-50d72c2ca4e5
