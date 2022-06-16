@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes the second writing assignment for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

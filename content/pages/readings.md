@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the required readings assignments for each session
+  of the course, class notes, study questions, and handouts.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -57,7 +59,7 @@ Ehrenreich, Barbara. "Deindustrializing Chicago." Chapter 6 in _The Insecure Ame
 
 Murray, Charles. "Industriousness." Chapter 9 in _Coming Apart: The State of White America, 1960–2010_. Crown Forum, 2013. ISBN: 9780307453433.
 
-[Class Notes About Inequality (PDF)]({{< baseurl >}}/resources/mit21a_461f13_cl_nt_inequ)
+{{% resource_link 42c318bf-dabe-bf4b-cff3-50d72c2ca4e5 "Class Notes About Inequality (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -115,7 +117,7 @@ Marx, Karl, and Frederick Engels. [_Manifesto of the Communist Party_](http://ww
 *   Chapter II, pp. 23–31.
 *   Chapter IV, pp. 43–4.
 
-[Handout on Adam Smith and Karl Marx (PDF)]({{< baseurl >}}/resources/mit21a_461f13_rd_qs_sm_mr)
+{{% resource_link f59736bb-2d0b-8580-3f34-42b1d0e1e470 "Handout on Adam Smith and Karl Marx (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +139,7 @@ Weber, Max. "Class, Status, Party Weber, Max." Chapter VII in _From Max Weber: E
 
 Bourdieu, Pierre. "[The Forms of Capital](http://www.marxists.org/reference/subject/philosophy/works/fr/bourdieu-forms-capital.htm)." In _Handbook of Theory and Research for the Sociology of Education_. Edited by John G. Richardson. Greenwood, 1986. ISBN: 9780313235290.
 
-[Study Questions for Marx and Weber (PDF)]({{< baseurl >}}/resources/mit21a_461f13_rd_qs_mr_wb)
+{{% resource_link 69e8e9cd-e1d6-2b5d-8cdb-c7bdafff8fd1 "Study Questions for Marx and Weber (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -161,7 +163,7 @@ Polanyi, Karl. _The Great Transformation: The Political and Economic Origins of 
 *   Chapter 5: Evolution of the Market Pattern.
 *   Chapter 6: The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money.
 
-[Study Questions for Hayek and Polanyi (PDF)]({{< baseurl >}}/resources/mit21a_461f13_rd_qs_hy_po)
+{{% resource_link f2459838-983d-be8d-44c2-b54fe7e06140 "Study Questions for Hayek and Polanyi (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -181,7 +183,7 @@ Laclau, Ernesto, and Chantal Mouffe. "Recasting Marxism: Hegemony and New Politi
 
 Ortner, Sherry B. "Reading America: Preliminary Notes on Class and Culture." Chapter 9 in _Recapturing Anthropology: Working in the Present_. Edited by Richard G. Fox. School of American Research Press, 1991. ISBN: 9780933452787.
 
-[Class Notes About Post-Structuralism (PDF)]({{< baseurl >}}/resources/mit21a_461f13_cl_pststr_lt)
+{{% resource_link b1ddcf72-649b-a75f-ba06-373bbb3e160e "Class Notes About Post-Structuralism (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -510,7 +512,7 @@ Stout, Noelle. _Close to Home: Personal Failure and Public Affect in the Mortgag
 
 Jefferson, Anna. "[Narratives of Moral Order in Michigan's Foreclosure Crisis](http://dx.doi.org/10.1111/ciso.12006)." _City & Society_ 25, no. 1 (2013): 92–112.
 
-[Discussion Questions for the Final Class (PDF)]({{< baseurl >}}/resources/mit21a_461f13_fl_cl_dis_qs)
+{{% resource_link 444b29e2-537f-aad3-788d-69822b6ceb61 "Discussion Questions for the Final Class (PDF)" %}}
 
 
 {{< tdclose >}}
