@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page describes the final writing assignment for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 389bc200-2b0d-49cb-03b7-85d6706f8d77
 title: Final Writing Assignment
 uid: 53296a7c-ec64-118c-2dfc-31e306cecdc7
@@ -26,7 +31,7 @@ Cite works that offers different perspectives on a topic. (For example, if you c
 
 In citing academic work, also include different perspectives or disciplinary orientations. The professor can offer help in suggesting relevant academic work. Although you may reference different disciplines, keep in mind that the orientation of this paper is primarily a social scientific one that focuses on social analysis rather than statistical or policy analysis.
 
-Each student will be required to meet with the course writing tutor for feedback on his/her draft as it is developed. Due dates for the paper topic, draft, and final paper are in the [Calendar]({{< baseurl >}}/pages/calendar) section.
+Each student will be required to meet with the course writing tutor for feedback on his/her draft as it is developed. Due dates for the paper topic, draft, and final paper are in the {{% resource_link 6a15263e-faee-2c43-f50e-d6647edd77c3 "Calendar" %}} section.
 
 {{< anchor "topics" >}}{{< /anchor >}}Possible Topics:
 
