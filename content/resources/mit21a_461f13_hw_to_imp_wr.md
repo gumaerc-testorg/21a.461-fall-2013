@@ -5,6 +5,7 @@ file: /courses/21a-461-what-is-capitalism-fall-2013/7ab4ad7d0ff1b4b9b3990a2b5541
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21A.461 What is Captitalism? Writing Resource "How to Improve Your Writin
 uid: 7ab4ad7d-0ff1-b4b9-b399-0a2b55416f40
 ---
 This resource contains information regarding how to improve your writing.
-

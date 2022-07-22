@@ -6,6 +6,7 @@ file: /courses/21a-461-what-is-capitalism-fall-2013/69e8e9cde1d62b5d8cdbc7bdafff
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21A.461 What is Capitalism? Study Questions for Marx and Weber
 uid: 69e8e9cd-e1d6-2b5d-8cdb-c7bdafff8fd1
 ---
 This resource contains information regarding study questions for marx and weber.
-

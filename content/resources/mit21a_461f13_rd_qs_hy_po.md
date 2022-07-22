@@ -6,6 +6,7 @@ file: /courses/21a-461-what-is-capitalism-fall-2013/f2459838983dbe8d44c2b54fe7e0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21A.461 What is Capitalism? Study Questions for Hayek and Polanyi
 uid: f2459838-983d-be8d-44c2-b54fe7e06140
 ---
 This resource contains information regarding study questions for hayek and polanyi.
-

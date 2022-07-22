@@ -5,6 +5,7 @@ file: /courses/21a-461-what-is-capitalism-fall-2013/b1ddcf72649ba75fba06373bbb3e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21A.461 What is Capitalism? Class Notes About Post-Structuralism
 uid: b1ddcf72-649b-a75f-ba06-373bbb3e160e
 ---
 This resource contains information regarding class notes about post-structuralism.
-
