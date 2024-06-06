@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding handout on adam smith and
   karl marx.
 file: /courses/21a-461-what-is-capitalism-fall-2013/f59736bb2d0b85803f3442b1d0e1e470_MIT21A_461F13_Rd_Qs_Sm_Mr.pdf
+file_size: 168838
 file_type: application/pdf
 learning_resource_types:
 - Readings
