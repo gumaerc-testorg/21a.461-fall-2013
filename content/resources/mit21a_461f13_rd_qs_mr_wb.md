@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding study questions for marx
   and weber.
 file: /courses/21a-461-what-is-capitalism-fall-2013/69e8e9cde1d62b5d8cdbc7bdafff8fd1_MIT21A_461F13_Rd_Qs_Mr_Wb.pdf
+file_size: 103797
 file_type: application/pdf
 learning_resource_types:
 - Readings

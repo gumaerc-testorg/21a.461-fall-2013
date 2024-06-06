@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding class notes about post-structuralism.
 file: /courses/21a-461-what-is-capitalism-fall-2013/b1ddcf72649ba75fba06373bbb3e160e_MIT21A_461F13_Cl_PstStr_lt.pdf
+file_size: 267767
 file_type: application/pdf
 learning_resource_types:
 - Readings
