@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding discussion questions for
   the final class.
-file: /courses/21a-461-what-is-capitalism-fall-2013/444b29e2537faad3788d69822b6ceb61_MIT21A_461F13_Fl_Cl_Dis_Qs.pdf
+file: /ol-ocw-studio-app/courses/21a-461-what-is-capitalism-fall-2013/444b29e2537faad3788d69822b6ceb61_MIT21A_461F13_Fl_Cl_Dis_Qs.pdf
 file_size: 95661
 file_type: application/pdf
 learning_resource_types:
