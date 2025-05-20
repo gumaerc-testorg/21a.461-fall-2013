@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding class notes about inequality.
-file: /ol-ocw-studio-app/courses/21a-461-what-is-capitalism-fall-2013/42c318bfdabebf4bcff350d72c2ca4e5_MIT21A_461F13_Cl_Nt_Inequ.pdf
+file: /courses/21a-461-what-is-capitalism-fall-2013/42c318bfdabebf4bcff350d72c2ca4e5_MIT21A_461F13_Cl_Nt_Inequ.pdf
 file_size: 157605
 file_type: application/pdf
 learning_resource_types:
