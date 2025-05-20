@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding how to improve your writing.
-file: /ol-ocw-studio-app/courses/21a-461-what-is-capitalism-fall-2013/7ab4ad7d0ff1b4b9b3990a2b55416f40_MIT21A_461F13_Hw_to_Imp_Wr.pdf
+file: /courses/21a-461-what-is-capitalism-fall-2013/7ab4ad7d0ff1b4b9b3990a2b55416f40_MIT21A_461F13_Hw_to_Imp_Wr.pdf
 file_size: 142090
 file_type: application/pdf
 learning_resource_types:
