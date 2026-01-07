@@ -11,7 +11,7 @@ parent_uid: 389bc200-2b0d-49cb-03b7-85d6706f8d77
 title: Final Writing Assignment
 uid: 53296a7c-ec64-118c-2dfc-31e306cecdc7
 ---
-Please write a 10 page (double-spaced) essay on some aspect of the financial crisis of 2008. Some {{% resource_link "f6554d62-748a-4c02-bbb6-f8134297ea45" "possible topics" %}} are listed below, but feel free to choose your own topic/focus. For whichever topic you choose, consider yourself an anthropologist/ethnographer. Although you won't be able to conduct fieldwork on the topic, try to think about the social dimensions of the problem at hand and try to locate information that helps elucidate those questions. If a topic is one that is heavily debated, consider some of the following questions:
+Please write a 10 page (double-spaced) essay on some aspect of the financial crisis of 2008. Some [possible topics](https://ocw-studio.odl.mit.edu/sites/21a-461-what-is-capitalism-fall-2013/type/page/edit/53296a7c-ec64-118c-2dfc-31e306cecdc7/#topics) are listed below, but feel free to choose your own topic/focus. For whichever topic you choose, consider yourself an anthropologist/ethnographer. Although you won't be able to conduct fieldwork on the topic, try to think about the social dimensions of the problem at hand and try to locate information that helps elucidate those questions. If a topic is one that is heavily debated, consider some of the following questions:
 
 - What is the range of actors involved in this issue?
 - How are they positioned in relation to each other in social, economic, or political terms?
@@ -27,7 +27,7 @@ In your paper, you must cite two to three of the class readings from the last se
 
 In addition to readings cited from class, you will be expected to cite 4–5 other sources offering competing viewpoints on the topic and based on respected sources where you know where the information is coming from. These should include academic works but may also include media pieces, particularly for topics that have happened too recently to be thoroughly explored in the academic literature.
 
-Cite works that offers different perspectives on a topic. (For example, if you cite media articles, perhaps pair the {{% resource_link "dbbafcdb-2efb-4604-9206-2684f0765b52" "New York Times" %}} and the {{% resource_link "ac73206c-4803-4746-8794-2ba6448056d7" "Wall Street Journal" %}}; the {{% resource_link "28c05ea3-a9ec-433d-b296-d09cd227cf24" "Economist" %}} and the {{% resource_link "5903b866-8d97-4ce2-9aae-e9746f492b5c" "New York Review of Books" %}}; or the Weekly Standard and the {{% resource_link "7c2fe641-9d26-403f-b30c-c46b89fd3b8b" "Nation" %}}).
+Cite works that offers different perspectives on a topic. (For example, if you cite media articles, perhaps pair the [New York Times](http://www.nytimes.com/) and the [Wall Street Journal](http://online.wsj.com/home-page); the [Economist](http://www.economist.com/) and the [New York Review of Books](http://www.nybooks.com/); or the Weekly Standard and the [Nation](http://www.thenation.com/)).
 
 In citing academic work, also include different perspectives or disciplinary orientations. The professor can offer help in suggesting relevant academic work. Although you may reference different disciplines, keep in mind that the orientation of this paper is primarily a social scientific one that focuses on social analysis rather than statistical or policy analysis.
 
