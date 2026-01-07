@@ -287,7 +287,7 @@ Final Writing Assignment Topics Due; Discussion with Writing Tutor Regarding Fin
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Film: {{% resource_link "fecba7c9-0db8-42d2-bfd6-5957f592156d" "Frontline: Money, Power & Wall Street" %}}, Episode 1, April 24, 2012.
+Film: [Frontline: Money, Power & Wall Street](http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/), Episode 1, April 24, 2012.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -299,7 +299,7 @@ Film: {{% resource_link "fecba7c9-0db8-42d2-bfd6-5957f592156d" "Frontline: Money
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Film: {{% resource_link "fecba7c9-0db8-42d2-bfd6-5957f592156d" "Frontline: Money, Power & Wall Street" %}}, Episode 2, April 24, 2012.
+Film: [Frontline: Money, Power & Wall Street](http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/), Episode 2, April 24, 2012.
 {{< tdclose >}}
 {{< tdopen >}}
  
